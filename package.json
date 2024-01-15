@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Naibaf93/Platzi-travel/issues"
   },
-  "homepage": "https://github.com/Naibaf93/Platzi-travel#readme"
+  "homepage": "https://github.com/Naibaf93/Platzi-travel#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.33",
+    "tailwindcss": "^3.4.1"
+  }
 }
